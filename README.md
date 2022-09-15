@@ -1,3 +1,5 @@
+![LinkedIn-Banner](https://user-images.githubusercontent.com/31903179/190400468-25eb84f4-70e6-4e83-ade5-d854d9a60ddf.jpeg)
+
 ### Hi everyone 👋
 
 I'm a passionate software developer from South Africa with 10+ years professional experience and enthralled with both front and backend web development.
