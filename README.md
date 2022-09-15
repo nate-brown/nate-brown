@@ -7,7 +7,7 @@ A little more about me...
 ```javascript
 const natebrown = {
     currentTechStack: {
-        code: [Javascript, TypeScript, C#, HTML, CSS],
+        code: [JavaScript, TypeScript, C#, HTML, CSS],
         technologies: {
             frontEnd: {
                 js: [Angular, Cypress, Jest]
@@ -28,7 +28,7 @@ const natebrown = {
     }, {
         degree: "N.Dip. in Information Technology",
         major: "Software Development"
-    ]},
+    }],
     continuousLearning: {
         online: ["free code camp", "hacker rank", "udemy"]
     }
