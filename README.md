@@ -2,31 +2,35 @@
 
 I'm a passionate software developer from South Africa with 10+ years professional experience and enthralled with both front and backend web development.
 
-##### Technologies
+A little more about me...
 
 ```javascript
 const natebrown = {
-    code: [Javascript, TypeScript, C#, HTML, CSS],
-    technologies: {
-        frontEnd: {
-            js: [Angular, Cypress, Jest],
+    currentTechStack: {
+        code: [Javascript, TypeScript, C#, HTML, CSS],
+        technologies: {
+            frontEnd: {
+                js: [Angular, Cypress, Jest]
+            },
+            backEnd: {
+                js: [Node, Express]
+            },
+            devOps: [AWS, Azure, Docker],
+            databases: [Mongo],
+            tools: [Figma, Fork]
         },
-        backEnd: {
-            js: [Node, Express],
-        },
-        devOps: [AWS, Azure, Docker],
-        databases: [mongo]
-        tools: [Figma, ]
+        architecture: ["single page applications", "micro-frontends", "progressive web applications", "backend-for-frontend"],
+        programmingParadigms: ["object-oriented", "functional"],
     },
-    architecture: ["single page applications", "micro-frontends", "progressive web applications", "backend-for-frontend"],
-    programmingParadigms: ["object-oriented", "functional"]
+    education: [{
+        degree: "B.Tech. in Information Technology",
+        major: "Software Development"
+    }, {
+        degree: "N.Dip. in Information Technology",
+        major: "Software Development"
+    ]},
+    continuousLearning: {
+        online: ["free code camp", "hacker rank", "udemy"]
+    }
 };
 ```
-
-<p>
-  <a href="https://www.linkedin.com/in/natebrown17/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="#"><img src="https://img.shields.io/badge/JavaScript-Expert-_.svg?logo=java"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Angular-Expert-_.svg?logo=angular"></a>
-  <a href="#"><img src="https://img.shields.io/badge/TDD-Advocate-_.svg"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Clean%20Code-Evangelist-_.svg"></a>
-</p>
