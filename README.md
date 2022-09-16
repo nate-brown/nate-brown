@@ -8,32 +8,36 @@ A little more about me:
 
 ```javascript
 const natebrown = {
-    role: "Senior Frontend Engineer",
-    techStack: {
-        code: [ JavaScript, TypeScript, C#, HTML, CSS ],
-        technologies: {
-            frontEnd: {
-                js: [ Angular, Cypress, Jest ]
+    occupation: {
+        role: "Senior Frontend Engineer",
+        tech: {
+            code: [ JavaScript, TypeScript, C#, HTML, CSS ],
+            technologies: {
+                frontEnd: {
+                    js: [ Angular, Cypress, Jest ]
+                },
+                backEnd: {
+                    js: [ Node, Express ]
+                },
+                devOps: [ AWS, Azure, Docker ],
+                databases: [ Mongo ],
+                tools: [ Figma, Fork ]
             },
-            backEnd: {
-                js: [ Node, Express ]
-            },
-            devOps: [ AWS, Azure, Docker ],
-            databases: [ Mongo ],
-            tools: [ Figma, Fork ]
-        },
-        architecture: [ "single page applications", "micro-frontends", "progressive web applications", "backend-for-frontend" ],
-        programmingParadigms: [ "object-oriented", "functional" ]
+            architecture: [ "single page applications", "micro-frontends", "progressive web applications", "backend-for-frontend" ],
+            programmingParadigms: [ "object-oriented", "functional" ]
+        }
     },
-    education: [{
-        degree: "B.Tech. in Information Technology",
-        major: "Software Development"
-    }, {
-        degree: "N.Dip. in Information Technology",
-        major: "Software Development"
-    }],
-    alwaysLearning: {
-        online: [ "free code camp", "hacker rank", "udemy" ]
+    education: {
+        formal: [{
+            degree: "B.Tech. in Information Technology",
+            major: "Software Development"
+        }, {
+            degree: "N.Dip. in Information Technology",
+            major: "Software Development"
+        }],
+        freeCodeCamp: [ "JavaScript Algorithms and Data Structures" ],
+        hackerRank: [ "Angular Certifications" ],
+        udemy: [ "Progressive Web Apps", "JavaScript: The Advanced Concepts" ]
     }
 };
 ```
