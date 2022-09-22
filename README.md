@@ -2,7 +2,8 @@
 
 ### Hi everyone 👋
 
-I'm a passionate software developer from South Africa with 10+ years professional experience and enthralled with both front and backend web development.
+I'm a passionate software developer from South Africa with 10+ years professional experience and enthralled in full-stack web development.
+I currently specialise in the MEAN stack (Mongo, Express.js, Angular and Node.js)
 
 A little more about me:
 
