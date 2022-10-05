@@ -4,14 +4,14 @@
 
 I'm a passionate software developer from South Africa with 10+ years professional experience and enthralled in full-stack web development.
 
-I developed propriety web applications that have had over 1M unique monthly users, participate as a subject matter expert in the development & planning of the broader product engineering team, and coach & mentor other engineers. I now currently specialise in the MEAN stack (Mongo, Express.js, Angular and Node.js).
+I developed propriety web applications that have had over 1M unique monthly users, participate as a subject matter expert in the development & planning of the broader product engineering team, and mentor other engineers. I now currently specialise in the MEAN stack (Mongo, Express.js, Angular and Node.js).
 
 A little more about me:
 
 ```javascript
 const natebrown = {
     occupation: {
-        role: "Senior Frontend Engineer",
+        role: "Lead Frontend Software Engineer",
         tech: {
             code: [ JavaScript, TypeScript, C#, HTML, CSS ],
             technologies: {
@@ -25,7 +25,7 @@ const natebrown = {
                 databases: [ Mongo ],
                 tools: [ Figma, Fork ]
             },
-            architecture: [ "single page applications", "micro-frontends", "progressive web applications", "backend-for-frontend" ],
+            architecture: [ "single page applications", "micro-frontends", "backend-for-frontend" ],
             programmingParadigms: [ "object-oriented", "functional" ]
         }
     },
